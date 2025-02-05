@@ -41,7 +41,6 @@ Este repositório contém um **dashboard interativo** para análise de vendas da
    ```bash
    python app.py
    ```
-5. Acesse no navegador: **http://127.0.0.1:8050/**
 
 📌 Contribuição
 Sinta-se à vontade para contribuir! Basta abrir uma **issue** ou enviar um **pull request** com sugestões de melhorias.
